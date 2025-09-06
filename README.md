@@ -1,2 +1,3 @@
 # python-hello-world
-Simple Python Hello World implementation
+
+> Initial repository created by agent
